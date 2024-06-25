@@ -1,0 +1,9 @@
+a = complex(1, 2)
+b = complex(1, 3)
+print("a+b =", a+b)
+print("a-b =", a-b)
+print("a*b =", a*b)
+print("a/b =", a/b)
+l = [abs(a+b), abs(a-b), abs(a*b), abs(a/b)]
+print("min =", min(l))
+print("max =", max(l))

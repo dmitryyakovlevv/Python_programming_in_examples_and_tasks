@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e9b19d0-9812-4ca7-9c50-d35ffc9608b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ10/src/MergeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ10/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ10/src/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ10/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number3/TypesOfData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ11/src/number5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number4/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ13/src/number6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber1/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber4/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber5/DogKennel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber6/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber6/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber7/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber7/Bookshelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ2/src/namber9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ20/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ20/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ20/src/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ20/src/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ20/src/Parametric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number4/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number5/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number6/Employer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number6/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number7/Schoolboy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number7/learner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number8/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number8/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4.1/src/number9/FurnitureShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number1/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Atelier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/MenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Skirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/Tie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number2/WomenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number3/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number3/Tovar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number3/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number4/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number4/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number4/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ4/src/number4/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number1/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number1/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number1/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/ComputerBrands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number10/ShopInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number11/Celsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number12/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number12/MyStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number13/ConcretObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number13/MyStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number13/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number13/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number2/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number2/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number2/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number3/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number3/animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number3/cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number3/planets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number4/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number4/Computers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number4/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number6_7_8_9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number6_7_8_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number6_7_8_9/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ6/src/number6_7_8_9/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number1_2_3/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number1_2_3/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number1_2_3/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number4/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number4/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number5_6/ProcessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number5_6/Stringable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number7_8_9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number7_8_9/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number7_8_9/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ7/src/number7_8_9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ8/src/number7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ8/src/number8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ8/src/number9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ8/src/number9/MyInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/zach/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/10/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/4/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/7/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/8/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter3/9/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/10/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/4/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/7/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/8/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5/9/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/10/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/4/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/7/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/8/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter6/9/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/10/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/4/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/7/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/8/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter7/9/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/1/Class_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/4/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/5/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/7/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/8/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter8/9/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/create-article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/post_update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskStudy/templates/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/static/js/valid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/entrance_registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/curses/curses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/dashboard/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/dashboard/notes/create_notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/dashboard/notes/notes_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/dashboard/notes/notes_update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/personal_account/personal_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hakaton1/templates/main/schedule/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ekz/src/Maim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ekz/src/Vector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ekz/src/Vector2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ekz2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/out/production/1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/out/production/1/Trapeze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/1/src/Trapeze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/out/production/2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/out/production/3/One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/3/src/One.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4.2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IJ/4/4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ1/src/dz1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../IntelliJ IDEA CE/DZ1/src/dz1/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/KR/KR.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/KR/KR.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/KR/KR.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/KR/KR.xcodeproj/project.xcworkspace/xcuserdata/dmitrijiakovlev.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/KR/KR.xcodeproj/xcuserdata/dmitrijiakovlev.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/KR/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/Курсовая 1/Курсовая 1.xcodeproj/project.xcworkspace/xcuserdata/dmitrijiakovlev.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../Xcode/Курсовая 1/Курсовая 1.xcodeproj/project.xcworkspace/xcuserdata/dmitrijiakovlev.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Xcode/Курсовая 1/Курсовая 1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Xcode/Курсовая 1/Курсовая 1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pr/m1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pr/m2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JdbeX03ZLxc2414eEnWEaag9y2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.10">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10/10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6/6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7/7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Chapter4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9/9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.10" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.3" />
+      <item itemvalue="Python.5" />
+      <item itemvalue="Python.6" />
+      <item itemvalue="Python.7" />
+      <item itemvalue="Python.8" />
+      <item itemvalue="Python.9" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e9b19d0-9812-4ca7-9c50-d35ffc9608b7" name="Changes" comment="" />
+      <created>1672411002931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672411002931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

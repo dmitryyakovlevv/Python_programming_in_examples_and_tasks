@@ -1,0 +1,8 @@
+x = int(input("введите целое число "))
+l = list(bin(x))
+l.pop(0)
+l.pop(0)
+print("всего бит:", len(l))
+print(l)
+n = int(input("введите номер бита, который нужно определить "))
+print(l[n-1])

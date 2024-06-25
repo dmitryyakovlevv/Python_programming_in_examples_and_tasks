@@ -1,0 +1,8 @@
+print("Введите текст")
+s = str(input())
+print("Введите расстояние между элементами")
+r = int(input())
+a1 = tuple([s[i] for i in range(0, len(s))])
+a2 = tuple([a1[i] for i in range(0, len(a1), r)])
+print(a1)
+print(a2)
